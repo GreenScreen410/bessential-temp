@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Pretendard Variable", Pretendard, -apple-system, system-ui, sans-serif;
+  --font-jakarta: "Plus Jakarta Sans", "Pretendard Variable", sans-serif;
+  --color-ink: #232b35;
+  --color-muted: #727e8a;
+  --color-line: #e5e8eb;
+  --color-navy: #2f4972;
+}
+
+html {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: #f3f4f6;
+  color: var(--color-ink);
+}
+
+/* Figma text-box-trim: 캡 높이 기준으로 위아래 여백 제거 (Chrome 133+/Safari 18.2+, 미지원 시 일반 박스) */
+@utility trim {
+  text-box: trim-both cap alphabetic;
+}

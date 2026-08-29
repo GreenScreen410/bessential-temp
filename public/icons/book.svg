@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="book_5">
+<mask id="mask0_0_31" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<rect id="Bounding box" width="16" height="16" fill="#D4D7DB"/>
+</mask>
+<g mask="url(#mask0_0_31)">
+<path id="book_5_2" d="M4.5 14.6667C4 14.6667 3.56944 14.4972 3.20833 14.1583C2.84722 13.8194 2.66667 13.4 2.66667 12.9V3.6C2.66667 3.17778 2.79722 2.8 3.05833 2.46667C3.31944 2.13333 3.66111 1.92222 4.08333 1.83333L10.6667 0.533333V11.2L4.35 12.4667C4.25 12.4889 4.16667 12.5417 4.1 12.625C4.03333 12.7083 4 12.8 4 12.9C4 13.0222 4.05 13.125 4.15 13.2083C4.25 13.2917 4.36667 13.3333 4.5 13.3333H12V2.66667H13.3333V14.6667H4.5ZM4.66667 11.05L6 10.7833V2.81667L4.66667 3.08333V11.05Z" fill="#677380"/>
+</g>
+</g>
+</svg>
